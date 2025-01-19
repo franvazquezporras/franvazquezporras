@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franvazquezporras&label=Profile%20views&color=0e75b6&style=flat" alt="franvazquezporras" /> </p>
 
-- 🔭 I’m currently working on [Hexes Of Mithril](https://www.linkedin.com/company/wild-alchemists/)
+- 🔭 I’m currently working on [Augury Games](https://www.linkedin.com/company/augury-games/posts/?feedView=all)
 
 - 🌱 I’m currently learning **Unity, Unreal Engine**
 
