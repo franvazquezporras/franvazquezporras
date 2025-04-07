@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franvazquezporras&label=Profile%20views&color=0e75b6&style=flat" alt="franvazquezporras" /> </p>
 
-- 🔭 I’m currently working on [NTTData](https://www.linkedin.com/company/augury-games/posts/?feedView=all](https://es.nttdata.com/))
+- 🔭 I’m currently working on [NTTData](https://es.nttdata.com/)
 
 - 🌱 I’m currently learning **Unity, Unreal Engine**
 
